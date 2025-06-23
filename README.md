@@ -1,19 +1,13 @@
 # 👋 Hello! I'm Krishna Madani  
+
 **Software Developer | Full-Stack Engineer | Cloud Enthusiast**
 
-🎓 Master's in Information Systems — Northeastern University  
-💼 3+ years of experience building scalable, production-ready applications  
-🌐 Passionate about clean architecture, cloud-native development, and problem-solving through code
+I'm a full-stack developer passionate about turning complex ideas into intuitive, scalable software. With experience across frontend, backend, and cloud infrastructure, I bring both versatility and precision to the table.
 
----
-
-## 💡 About Me
-
-I’m a full-stack developer who thrives at the intersection of design, functionality, and scalability. My experience spans frontend finesse with React/Next.js to robust backend systems using Django and Spring Boot — all backed by real-world cloud deployments on AWS.
-
-I’m passionate about delivering software that doesn’t just work, but **works elegantly**. From streamlining user experiences to optimizing backend APIs, I bring an attention to detail and love for clean code to every project I take on.
-
-Currently focused on building tools that simplify financial planning, integrate with modern cloud stacks, and are secure, fast, and reliable.
+- 🎓 Master’s in Information Systems from _Northeastern University_  
+- 👨‍💻 3+ years of experience as Software developer
+- 🎯 Focused on building scalable, cloud-native applications with clean architecture  
+- 🎨 Passionate about UI/UX and crafting seamless user experiences     
 
 ---
 
