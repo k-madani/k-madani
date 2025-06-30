@@ -1,13 +1,13 @@
 # 👋 Hello! I'm Krishna Madani  
 
-**Software Developer | Full-Stack Engineer | Cloud Enthusiast**
+**Software Developer | Full-Stack Engineer | Cloud & Product Enthusiast**
 
 I'm a full-stack developer passionate about turning complex ideas into intuitive, scalable software. With experience across frontend, backend, and cloud infrastructure, I bring both versatility and precision to the table.
 
 - 🎓 Master’s in Information Systems from _Northeastern University_  
 - 👨‍💻 3+ years of experience as Software developer
 - 🎯 Focused on building scalable, cloud-native applications with clean architecture  
-- 🎨 Passionate about UI/UX and crafting seamless user experiences     
+- 🎨 Passionate about cloud-native systems, clean code, and thoughtful UI/UX     
 
 ---
 
