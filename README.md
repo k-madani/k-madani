@@ -51,6 +51,7 @@ I'm a full-stack developer passionate about turning complex ideas into intuitive
 ![Agile](https://img.shields.io/badge/Agile-%23fca121.svg?style=flat&logo=scrumalliance&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST-API-%23007ACC.svg?style=flat&logo=protocolsio&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-%23007396.svg?style=flat)
+![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=flat&logo=figma&logoColor=white)
 
 ---
 
